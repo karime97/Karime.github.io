@@ -2,17 +2,16 @@
 
 ---
 
-### Category Name 1 
 
 [Dev-Loopers](/sample_page)
 <img src="images/devloopers.png?raw=true"/>
 
 ---
-[Body-Ixchel](/pdf/sample_presentation.pdf)
+[Body-Ixchel](/pdf/sample_presentation.pdf)</br>
 <img src="images/bodyIxchel.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)</br>
+[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
