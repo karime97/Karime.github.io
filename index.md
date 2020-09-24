@@ -7,7 +7,8 @@
 <img src="images/devloopers.png?raw=true"/>
 
 ---
-[Body-Ixchel](/pdf/sample_presentation.pdf)</br>
+[Body-Ixchel](/pdf/sample_presentation.pdf)
+
 <img src="images/bodyIxchel.png?raw=true"/>
 
 ---
